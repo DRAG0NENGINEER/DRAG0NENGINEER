@@ -1,21 +1,30 @@
-<h1 align="center">Hi 👋, I'm WØLF</h1>
-<h3 align="center">A passionate security engineer from United States</h3>
+<h1 align="center">Hi 👋, I'm WØLF
+<h3 align="center"> Securing A Better Future, Today </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drag0nengineer&label=Profile%20views&color=0e75b6&style=flat" alt="drag0nengineer" /> </p>
+![Profile views](https://gpvc.arturio.dev/THEDRAGONENGINEER)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drag0nengineer" alt="drag0nengineer" /></a> </p>
+![Securing A Better Future, Today ](https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif)
 
-- 📫 How to reach me **Sjohnson@reddragonsec.net**
+A security engineer at Dragons Cybersecurity working on open source tools. I care about security improvement,  design, and digital communities. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![GitHub metrics](https://metrics.lecoq.io/THEDRAGONENGINEER)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+Skills: PYTHON / HTML / CSS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drag0nengineer&show_icons=true&locale=en&layout=compact" alt="drag0nengineer" /></p>
+- 🔭 I’m currently working on Security Improvements and Strategies   
+- 🌱 I’m currently learning Artificial Intelligence 
+- 📫 How to reach me: sjohnson@reddragonsec.net 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drag0nengineer&show_icons=true&locale=en" alt="drag0nengineer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drag0nengineer&" alt="drag0nengineer" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/THEDRAGONENGINEER)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Http://www.DragonsCybersecurity.com)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=THEDRAGONENGINEER)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=THEDRAGONENGINEER&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=THEDRAGONENGINEER)  
+  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=THEDRAGONENGINEER)  
+  
